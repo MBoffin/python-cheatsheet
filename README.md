@@ -1,5 +1,5 @@
 # Python Beginner Cheat Sheet - Just the Basics
-This is a cheat sheet I created for my students to use when learning Python. It is not comprehensive, as its intended to only cover the basics needed for simple programs. I've found it useful and I hope you do as well.
+This is a cheat sheet I created for my students to use when learning Python. I've found it useful and I hope you do as well.
 
 The descriptions are targeted at someone who knows _some_ basic terminology of programming, but not a lot. As a result, the language may be less technical or less precise than you would find in official documentation.
 
