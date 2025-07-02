@@ -9,3 +9,6 @@ If you find typos, errors, inaccuracies, or have suggestions, please feel free t
 The font for the main text is [Oswald](https://fonts.google.com/specimen/Oswald). I chose Oswald because of its legibility and slimness, allowing for more text per line.
 
 The font for any code is [Fira Mono](https://fonts.google.com/specimen/Fira+Mono). I chose Fira Mono because of its distinction of `1liI` characters.
+
+# Download
+[https://mboffin.github.io/python-cheatsheet/PythonCheatSheet.pdf](https://mboffin.github.io/python-cheatsheet/PythonCheatSheet.pdf)
