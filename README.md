@@ -5,6 +5,8 @@ The descriptions are targeted at someone who knows _some_ basic terminology of p
 
 If you find typos, errors, inaccuracies, or have suggestions, please feel free to file an issue.
 
+—Dylan Bennett
+
 # Fonts and Palette
 The font for the main text is [Oswald](https://fonts.google.com/specimen/Oswald). I chose Oswald because of its slimness, while still being legible. This allowed for more text per line.
 
